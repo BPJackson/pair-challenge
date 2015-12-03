@@ -3,6 +3,8 @@ body {
   padding: 0;
   height: 100vh;
   width: 100vw;
+  font-family: times;
+
 }
 
 
@@ -28,10 +30,18 @@ header {
 #brand {
   margin-bottom: 0;
   padding-bottom: 0;
+  font-style:  none;
+  font-weight: normal;
+  color: #C3BCB7;
+  
+
 }
 #slogan {
   padding-top: 0;
   margin-top: 0;
+  font-weight: normal;
+  font-size: .8em;
+  color: #C3BCB7;
 }
 
 nav {
@@ -61,8 +71,12 @@ ul {
 
 
 }
+.ital{
+  font-style: italic;
+}
 #pee{
   padding-right: 25px;
+  font-style: italic;
 
 }
 .readMore{
@@ -89,11 +103,38 @@ ul {
   clear: both;
 }
 article {
-  background-color: grey;
   height: 250px;
   width: 249px;
   float: left;
   margin: 10px;
+}
+h3{
+  color: #979797;
+}
+.boxy{
+  height: 85px;
+  width: 85px;
+  border: 1.75px solid #DEDEDE;
+  float: left;
+  margin-right: 5px;
+  margin-bottom: 15px;
+
+
+
+}
+.pic{
+  margin: 0 auto;
+  display: block;
+  margin-top: 2px;
+
+
+}
+.text{
+  font-size: .8em;
+  padding-left: 5px;
+  color: #979797;
+
+
 }
 
 
