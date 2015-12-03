@@ -82,22 +82,18 @@ ul {
   padding-top: 20px;
   color: #969696;
 
-
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+#triple {
+  margin-left: 47px;
+}
+article {
+  background-color: grey;
+  height: 250px;
+  width: 249px;
+  float: left;
+  margin: 10px;
+}
 
 
 
