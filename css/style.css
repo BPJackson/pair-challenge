@@ -86,6 +86,7 @@ ul {
 
 #triple {
   margin-left: 47px;
+  clear: both;
 }
 article {
   background-color: grey;
