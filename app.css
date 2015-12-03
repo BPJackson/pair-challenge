@@ -15,8 +15,8 @@ aside {
 }
 
 .dasBoot {
-    float: left;
-    
+    margin-top: 12px;
+
 }
 
 header, footer {
@@ -78,6 +78,10 @@ main {
     width: 30%;
     margin: 1.2%;
     float: left;
+}
+
+article {
+    border: 1px solid red;
 }
 
 article p {
