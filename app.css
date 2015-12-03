@@ -7,6 +7,10 @@
     /*margin: 0;*/
 }
 
+#voila {
+    display: none;
+}
+
 h1 {
    font-size: 3em;
    /*line-height: 1px;*/
@@ -111,6 +115,7 @@ article > p {
 #logo > p {
    margin-top: -30px;
 }
+
 
 /* -- Clearfix -- */
   /*.row:after {
