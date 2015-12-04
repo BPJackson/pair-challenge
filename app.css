@@ -104,12 +104,17 @@ p {
    float: right;
 }
 
+.hideThisGuy {
+   overflow: hidden;
+}
+
 article > p {
    display: inline;
 }
 
 #logo {
    margin-top: -30px;
+   overflow: hidden;
 }
 
 #logo > p {
